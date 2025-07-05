@@ -5,16 +5,11 @@
 * Data Science
 * Frontend and Backend Web Development
 * Rust
-## 👨‍💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-2.19-blue?logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=white)
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ikeepo&layout=compact">
 
 ## Programming Languages
-<img src = 'https://img.shields.io/badge/Rust-blue?logo=rust&logoColor=red' width='50'/>   <img src = 'https://img.shields.io/badge/Shell-blue?logo=gnubash&logoColor=white' width='50'/> 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)   <img src = 'https://img.shields.io/badge/Shell-blue?logo=gnubash&logoColor=white' width='50'/> 
 <img src = 'https://img.shields.io/badge/Rust-blue?logo=rust&logoColor=red' width='50'/> 
 
  
