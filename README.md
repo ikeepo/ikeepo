@@ -22,6 +22,7 @@
  
  ## Technologies I Use
 <img src = 'https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=#02569B' width='50'/> 
+<img src = 'https://img.shields.io/badge/Prefect-blue?logo=prefect&logoColor=#070E10' width='50'/> 
  
  ## Who am I?
  ```python
