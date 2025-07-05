@@ -16,7 +16,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ikeepo&layout=compact">
 
 ## Programming Languages
-<img src = 'https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow' width='50'/> 
+<img src = 'https://img.shields.io/badge/Rust-blue?logo=rust&logoColor=red' width='50'/>   <img src = 'https://img.shields.io/badge/Shell-blue?logo=shell&logoColor=white' width='50'/> 
 <img src = 'https://img.shields.io/badge/Rust-blue?logo=rust&logoColor=red' width='50'/> 
  
  ## Technologies I Use
