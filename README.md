@@ -16,8 +16,8 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ikeepo&layout=compact">
 
 ## Programming Languages
-<img src = 'https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow' width='30'/> 
-<img src = 'https://img.shields.io/badge/Python-blue?logo=rust&logoColor=red' width='30'/> 
+<img src = 'https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow' width='50'/> 
+<img src = 'https://img.shields.io/badge/Rust-blue?logo=rust&logoColor=red' width='50'/> 
  
  ## Technologies I Use
  <img src = 'https://github.com/ikeepo/ikeepo/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/ikeepo/ikeepo/blob/master/images/android.svg' width='30'/><img src = 'https://github.com/ikeepo/ikeepo/blob/master/images/flutter-logo.svg' width='40'/> <img src = 'https://github.com/ikeepo/ikeepo/blob/master/images/django.svg' width='40'/> <img src = 'https://github.com/ikeepo/ikeepo/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/ikeepo/ikeepo/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/ikeepo/ikeepo/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/ikeepo/ikeepo/blob/master/images/react.svg' width='33'/>
